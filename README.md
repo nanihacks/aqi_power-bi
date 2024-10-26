@@ -1,4 +1,5 @@
 Air Quality Index Dashboard for Indian Regions
+
 Overview :
 Air quality plays a crucial role in the health and well-being of communities and ecosystems. Monitoring air quality is essential to understand the concentration of pollutants that impact health, visibility, climate, and the environment. Poor air quality, especially due to high levels of particulate matter (PM2.5, PM10) and gases like SO₂, NO₂, and CO, has been associated with respiratory diseases, cardiovascular problems, and adverse environmental effects. This dashboard provides an interactive visualization of air quality data across different regions in India, helping users understand and analyze the pollution levels in their area.
 
